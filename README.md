@@ -218,31 +218,7 @@ Actuellement, l’application ne consomme pas d’API externe.
 
 ---
 
-## 10. 🚚 Déploiement
-
-1. Compiler le projet :
-
-   ```bash
-   npm run build
-   ```
-
-2. Copier le contenu du dossier `dist/` vers le répertoire public de votre serveur.
-
----
-
-## 11. 🤝 Contribuer
-
-Nous accueillons les contributions avec plaisir !
-
-1. Forker ce dépôt
-2. Créer une branche (`git checkout -b feature/ma-fonctionnalité`)
-3. Commiter vos modifications (`git commit -m 'Ajout d'une fonctionnalité'`)
-4. Pousser votre branche (`git push origin feature/ma-fonctionnalité`)
-5. Créer une Pull Request
-
----
-
-## 12. 📄 Licence
+## 10. 📄 Licence
 
 Ce projet est sous licence **MIT**.
 Consultez le fichier [LICENSE](./LICENSE) pour plus de détails.
