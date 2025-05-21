@@ -22,9 +22,7 @@ Une application web moderne développée avec Vue.js pour la gestion des produit
 7. [Routage](#7-routage)
 8. [Stylisation](#8-stylisation)
 9. [API et gestion des données](#9-api-et-gestion-des-données)
-10. [Déploiement](#10-déploiement)
-11. [Contribuer](#11-contribuer)
-12. [Licence](#12-licence)
+10. [Licence](#12-licence)
 
 ---
 
