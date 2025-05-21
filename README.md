@@ -5,10 +5,6 @@
 
 ---
 
-Voici la version française professionnelle de ton fichier `README.md` pour **WebWares** :
-
----
-
 # 📦 Documentation WebWares
 
 Une application web moderne développée avec Vue.js pour la gestion des produits, des utilisateurs et des commandes.
